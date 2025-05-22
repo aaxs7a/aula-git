@@ -11,3 +11,12 @@ O VCS funciona registrando cada alteração realizada em arquivos e p/ou projeto
 2- Rede de segurança; possibilitando a ação de "reverter" atualizações de um código, caso um erro catastrófico for introduzido durando o processo de desenvolvimento.
 
 3- Ramificações e mesclagem.
+
+### git
+
+asdasdasd
+asdasda
+asdasd
+asdasd
+asdas
+asda
