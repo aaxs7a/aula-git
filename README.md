@@ -1,5 +1,3 @@
-# O que é um sistema de controle de versões (VCS)?
-
 r= O controle de versão, ou também conhecido como controle de
 fonte, é uma prática de rastreamento e gerenciamento de alterações
 em um código de software. Os sistemas de controle de versão são
